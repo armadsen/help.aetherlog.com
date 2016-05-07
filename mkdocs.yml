@@ -1,0 +1,5 @@
+site_name: Aether Help
+pages:
+- Home: index.md
+
+theme: amelia

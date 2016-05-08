@@ -1,5 +1,8 @@
 site_name: Aether Help
 pages:
 - Home: index.md
+- Getting Started:
+  - Installing Aether: installing.md
+  - Getting Started: gettingstarted.md
 
 theme: amelia

@@ -4,5 +4,7 @@ pages:
 - Getting Started:
   - Installing Aether: installing.md
   - Getting Started: gettingstarted.md
+- Guides:
+  - Callbook Lookup: callbooklookup.md
 
 theme: amelia

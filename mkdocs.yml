@@ -18,5 +18,6 @@ pages:
     - Troubleshooting LoTW: lotw/lotwtroubleshooting.md
 - FAQ:
   - TX/RX Exch.: faq/txrxexch.md
+  - Lost Logbook: faq/lostlog.md
 
 theme: amelia

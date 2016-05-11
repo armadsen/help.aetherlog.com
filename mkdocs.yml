@@ -17,6 +17,6 @@ pages:
     - Syncing with LoTW: lotw/syncinglotw.md
     - Troubleshooting LoTW: lotw/lotwtroubleshooting.md
 - FAQ:
-  - TX/RX Exch.: txrxexch.md
+  - TX/RX Exch.: faq/txrxexch.md
 
 theme: amelia

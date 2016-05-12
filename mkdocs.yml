@@ -8,14 +8,17 @@ pages:
 - Guides:
   - Callbook Lookup: callbooklookup.md
   - Logbook of the World:
-    - Overview: lotw/lotwsetup.md
+    - Setup: lotw/lotwsetup.md
     - Certificates:
       - Requesting a Certificate: lotw/requestcertificate.md
       - Installing a Certificate: lotw/installcertificate.md
       - Troubleshooting Certificates: lotw/certificatetroubleshooting.md
     - LoTW Settings: lotw/lotwsettings.md
     - Syncing with LoTW: lotw/syncinglotw.md
-    - Troubleshooting LoTW: lotw/lotwtroubleshooting.md
+    - Troubleshooting:
+      - Overview: lotw/lotwtroubleshootingoverview.md
+      - Certificates: lotw/certificatetroubleshooting.md
+      - Uploads to LoTW: lotw/lotwuploadtroubleshooting.md
 - FAQ:
   - TX/RX Exch.: faq/txrxexch.md
   - Lost Logbook: faq/lostlog.md

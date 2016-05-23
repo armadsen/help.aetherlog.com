@@ -2,7 +2,7 @@
 
 After you request an LoTW certificate, you receive a .tq6 file from the ARRL. This file can only be imported into the same program that was used to request it. Often, Aether users request a certificate with TQSL, then try to import the .tq6 file they receive into Aether, which doesn't work. The solution is to export a .p12 file from TQSL, then import _that_ into Aether. This page explains how to do this.
 
-Note that this process works the reverse way to. It is possible to export a .p12 file from Aether and import it into TQSL (or Aether on another computer), as well.
+Note that this process works the reverse way too. It is possible to export a .p12 file from Aether and import it into TQSL (or Aether on another computer), as well.
 
 ## Export .p12 From TQSL
 

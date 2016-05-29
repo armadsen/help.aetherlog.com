@@ -20,6 +20,9 @@ pages:
       - Overview: lotw/lotwtroubleshootingoverview.md
       - Certificates: lotw/certificatetroubleshooting.md
       - Uploads to LoTW: lotw/lotwuploadtroubleshooting.md
+  - Rig Control:
+    - Interfaces: rigcontrol/riginterfaces.md
+    - Drivers: rigcontrol/rigdrivers.md
 - FAQ:
   - TX/RX Exch.: faq/txrxexch.md
   - Lost Logbook: faq/lostlog.md

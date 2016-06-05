@@ -1,8 +1,4 @@
-## Question:
-
-What is the purpose of the TX and RX Exch. fields in Aether's main logging window?
-
-## Answer:
+## Overview
 
 The TX and RX Exchange fields are used for logging exchanges for QSOs made during a contest. The TX (transmitted) exchange is the exchange you sent to the other station. The RX (received) exchange is the exchange you received from the other station.
 

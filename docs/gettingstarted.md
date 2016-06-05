@@ -14,7 +14,7 @@ If you don't see this, you can create a new logbook file yourself by choosing Fi
 
 Now you're ready to log your first QSO! Make sure the cursor is in the callsign field in the top left corner of the window. Enter the callsign of the station you're working, and press the return key. If you entered a valid US callsign, you should see callbook information for that callsign automatically fill in the Callbook Info section on the right hand side of the window. Don't worry if you don't see this, as callbook lookup may require [more set up](callbooklookup.md).
 
-If you'd like, continue filling in additional info for the QSO. A quick note: unless you're logging QSOs made in a contest, you can leave the TX Exch. and RX Exch. fields blank. Find more information about those fields [here](faq/txrxexch.md).
+If you'd like, continue filling in additional info for the QSO. A quick note: unless you're logging QSOs made in a contest, you can leave the TX Exch. and RX Exch. fields blank. Find more information about those fields [here](/contesting/txrxexch.md).
 
 ## Saving your logbook
 

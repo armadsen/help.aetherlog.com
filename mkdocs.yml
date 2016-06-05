@@ -23,6 +23,7 @@ pages:
   - Rig Control:
     - Interfaces: rigcontrol/riginterfaces.md
     - Drivers: rigcontrol/rigdrivers.md
+    - PTT (Expert): rigcontrol/ptt.md
   - Contest Logging:
     - Cabrillo: contesting/cabrillo.md
     - TX/RX Exch.: contesting/txrxexch.md

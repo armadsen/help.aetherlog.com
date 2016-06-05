@@ -45,4 +45,4 @@ pages:
   - Lost Logbook: faq/lostlog.md
   - Aether Betas: faq/beta.md
 
-theme: amelia
+theme: flatly

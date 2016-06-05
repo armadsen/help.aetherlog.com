@@ -1,8 +1,8 @@
-## Logbook of The World Overview
+## Logbook of The World Troubleshooting Overview
 
 Aether's full integration with the ARRL's Logbook of The World (LoTW) system is something that many Aether users appreciate. LoTW is a complex system and can be difficult to get set up and to use. In developing Aether's support for LoTW, I tried hard to make things simple. For example, Aether tries to minimize the number of unique passwords you need to maintain for LoTW, as compared to the standard TrustedQSL system. It also allows you to upload your logs to LoTW without the need for exporting them to ADIF first, and to easily and automatically update your log with received LoTW confirmations.
 
-However, there are still places where trouble can be encountered. There are a few common problems that I hear about from Aether users, and I wanted to write a few posts explaining these and how to fix them. It's my hope that these will prevent frustration in the future.
+However, there are still places where trouble can be encountered. There are a few common problems that I hear about from Aether users, and these troubleshooting pages explain various problems and how to fix them. It's my hope that these will prevent frustration in the future.
 
 To understand these common problems, it helps to have a good overall picture of the processes you and Aether go through to setup and use LoTW. This post describes these processes. Later posts will describe common problems and how to fix them. This page goes into some detail about how _Aether_ uses LoTW. For more general information about the LoTW system, see the ARRL's [LoTW pages](http://www.arrl.org/logbook-of-the-world).
 

@@ -1,4 +1,4 @@
-Contributions to help.aetherlog.com are most welcome! The content for the site is open source precisely so that regular Aether users are able to contribute to it by reporting and fixing mistakes, asking questions, and even adding content. My time to work on Aether is limited, so help with improving this site means more time to develop new features for Aether itself.
+Contributions to help.aetherlog.com are most welcome! The content for the site is open source precisely so that regular Aether users are able to contribute to it by reporting and fixing mistakes, asking questions, and even adding content. My time to work on Aether is limited, so help with improving this site means more time to develop new features for Aether itself. See the [README](README.md) for more information about how to download, modify, build, and submit contributions to the site.
 
 There are a few guidelines to follow to make it easier to integrate your contributions.
 

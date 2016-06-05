@@ -40,7 +40,7 @@ The next time you want to use Aether, launch it by double clicking its icon just
 
 Now that you know the basics, you're ready to learn more about other features Aether has to offer. Here are some more resources:
 
-- [Aether Preferences](preferences.md)
+- [Aether Preferences](/preferences/preferences.md)
 - [Callbook Lookup](callbooklookup.md)
 - [Awards Tracking](awardstracking.md)
 - [Rig Control](/rigcontrol/rigcontrol.md)

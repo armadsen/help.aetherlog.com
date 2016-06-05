@@ -2,7 +2,11 @@
 
 Some rig control (CAT) interfaces include support for triggering the connected rig's Push To Talk (PTT) line in order to switch the rig into transmit mode under computer control. Often this keying is done using one of the handshake lines on the serial port (RTS or DTR). Because it is only possible for one application to use a given serial port, Aether allows other applications to trigger PTT keying via AppleScript. This way, Aether can be used for rig control for logging QSOs while another application (e.g. [cocoaModem](http://www.w7ay.net/site/Applications/cocoaModem/)) can trigger PTT. This page provides more information about this feature.
 
-**Note**: This is an advanced feature intended to be used by those with experience setting up computer controlled PTT over a serial CAT interface. It was added at the request of some users for whom it was very useful. However, as an advanced, mostly hidden feature, intended to facilitate use of Aether with applications written by others, I am unable to provide technical support for it beyond the information on this page.
+## Experts only
+
+This is an advanced feature intended to be used by those with experience setting up computer controlled PTT over a serial CAT interface. It was added at the request of some users for whom it was very useful. However, as an advanced, mostly hidden feature, intended to facilitate use of Aether with applications written by others, I am unable to provide technical support for it beyond the information on this page.
+
+Also note that most of the time, PTT using the serial port requires additional interface hardware beyond that necessary for plain CAT rig control. I cannot provide support for these hardware interfaces (many are homebrew), but there is ample information available online about building or buying them.
 
 ## AppleScript interface
 

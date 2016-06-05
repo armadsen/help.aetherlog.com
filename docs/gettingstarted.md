@@ -43,5 +43,5 @@ Now that you know the basics, you're ready to learn more about other features Ae
 - [Aether Preferences](preferences.md)
 - [Callbook Lookup](callbooklookup.md)
 - [Awards Tracking](awardstracking.md)
-- [Rig Control](rigcontrol.md)
+- [Rig Control](/rigcontrol/rigcontrol.md)
 - [Importing and Exporting Your Logbook](importexport.md)

@@ -5,6 +5,7 @@ pages:
   - Installing Aether: installing.md
   - Getting Started: gettingstarted.md
   - Callbook Lookup: callbooklookup.md
+  - Rig Control: rigcontrol/rigcontrol.md
 - Guides:
   - Callbook Lookup: callbooklookup.md
   - Logbook of the World:
@@ -21,8 +22,10 @@ pages:
       - Certificates: lotw/certificatetroubleshooting.md
       - Uploads to LoTW: lotw/lotwuploadtroubleshooting.md
   - Rig Control:
+    - Overview: rigcontrol/rigcontrol.md
     - Interfaces: rigcontrol/riginterfaces.md
     - Drivers: rigcontrol/rigdrivers.md
+    - Supported Radios: rigcontrol/supportedrigs.md
     - PTT (Expert): rigcontrol/ptt.md
   - Contest Logging:
     - Cabrillo: contesting/cabrillo.md

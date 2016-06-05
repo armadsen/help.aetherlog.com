@@ -4,10 +4,14 @@ pages:
 - Getting Started:
   - Installing Aether: installing.md
   - Getting Started: gettingstarted.md
+  - Preferences: preferences/preferences.md
   - Callbook Lookup: callbooklookup.md
   - Rig Control: rigcontrol/rigcontrol.md
 - Guides:
   - Callbook Lookup: callbooklookup.md
+  - Contest Logging:
+    - Cabrillo: contesting/cabrillo.md
+    - TX/RX Exch.: contesting/txrxexch.md
   - Logbook of the World:
     - Setup: lotw/lotwsetup.md
     - Certificates:
@@ -15,21 +19,26 @@ pages:
       - Installing a Certificate: lotw/installcertificate.md
       - Exporting a p12 from TQSL: lotw/exportp12fromtqsl.md
       - Troubleshooting Certificates: lotw/certificatetroubleshooting.md
-    - LoTW Settings: lotw/lotwsettings.md
+    - LoTW Settings: preferences/qslpreferences.md
     - Syncing with LoTW: lotw/syncinglotw.md
     - Troubleshooting:
       - Overview: lotw/lotwtroubleshootingoverview.md
       - Certificates: lotw/certificatetroubleshooting.md
       - Uploads to LoTW: lotw/lotwuploadtroubleshooting.md
+  - Preferences:
+    - Overview: preferences/preferences.md
+    - General: preferences/generalpreferences.md
+    - Rig Control: preferences/rigcontrolpreferences.md
+    - Logging: preferences/loggingpreferences.md
+    - QSL: preferences/qslpreferences.md
+    - Awards Tracking: preferences/awardspreferences.md
   - Rig Control:
     - Overview: rigcontrol/rigcontrol.md
     - Interfaces: rigcontrol/riginterfaces.md
     - Drivers: rigcontrol/rigdrivers.md
     - Supported Radios: rigcontrol/supportedrigs.md
+    - Settings: preferences/rigcontrolpreferences.md
     - PTT (Expert): rigcontrol/ptt.md
-  - Contest Logging:
-    - Cabrillo: contesting/cabrillo.md
-    - TX/RX Exch.: contesting/txrxexch.md
 - FAQ:
   - Lost Logbook: faq/lostlog.md
   - Aether Betas: faq/beta.md

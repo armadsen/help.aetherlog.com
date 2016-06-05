@@ -4,7 +4,7 @@ As I work on developing Aether, I frequently release beta test versions in order
 
 **Note:** By their very nature, beta test versions of Aether are not considered to be stable and ready for release to a wide audience. In general, they work well, but you should only install them if you're comfortable hitting into bugs, and reporting them to me. As always, you should keep backups of your Aether logbook files. This is doubly important when installing and running beta software.
 
-## Instructions For Downloading beta
+## Instructions For Downloading Aether Betas
 
 Note that these instructions will not work for Aether downloaded from the Mac App Store, nor for versions of Aether older than 1.6. Please see [below](#note-for-app-store-customers)
 

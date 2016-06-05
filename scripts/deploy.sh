@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-mkdocs build
+mkdocs build --clean
 success=$?
 if [ $success -ne 0 ]
 then

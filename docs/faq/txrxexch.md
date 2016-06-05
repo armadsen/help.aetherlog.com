@@ -10,4 +10,4 @@ The exact details of the exchanges depend on the contest you're operating in. Se
 
 Importantly, if you're not using Aether to log contest QSOs, you can simply ignore these fields. You can also log whatever information you'd like in them.
 
-If you are using Aether to log contest QSOs, make sure you feel in these fields, as they are used when exporting the [Cabrillo](cabrillo.md) file you will submit to the contest sponsor.
+If you are using Aether to log contest QSOs, make sure you feel in these fields, as they are used when exporting the [Cabrillo](/contesting/cabrillo.md) file you will submit to the contest sponsor.

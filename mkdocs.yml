@@ -23,6 +23,8 @@ pages:
   - Rig Control:
     - Interfaces: rigcontrol/riginterfaces.md
     - Drivers: rigcontrol/rigdrivers.md
+  - Contest Logging:
+    - Cabrillo: contesting/cabrillo.md
 - FAQ:
   - TX/RX Exch.: faq/txrxexch.md
   - Lost Logbook: faq/lostlog.md

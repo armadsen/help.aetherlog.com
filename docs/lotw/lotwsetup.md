@@ -6,10 +6,10 @@ Unfortunately, the Logbook of The World setup process is somewhat complicated. I
 
 1. [Request a certificate](/lotw/requestcertificate.md) for your callsign.
 2. [Install the certificate](/lotw/installcertificate.md) using Aether.
-3. [Configure](/lotw/lotwsettings.md) Aether for LoTW.
+3. [Configure](/preferences/qslpreferences.md) Aether for LoTW.
 4. Make sure you've filled in [Station Info](/stationinfo.md) for your log that matches the information used to request your certificate.
 5. You're ready to start [using LoTW](/lotw/syncinglotw.md) in Aether!
 
 ## More Information
 
-For more about the overall LoTW process in Aether, please see [this page](/lotw/lotwoverview.md)
+For more about the overall LoTW process in Aether, please see [this page](/lotw/lotwtroubleshootingoverview.md).

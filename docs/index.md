@@ -9,6 +9,10 @@ This website provides comprehensive help for [Aether](http://www.aetherlog.com/)
 
 You can also click the Search button to search this site.
 
+## Work In Progress
+
+This site is a work in progress, and therefore, there are a small number of pages that are empty or links that don't work yet. Work is continuing at a rapid pace, and these problems should be fixed soon. If you'd like to help, see below for information about contributing.
+
 ## Open Source
 
 This entire site is open source. This means that if you find a mistake, have a question not answered here, or would like to help contribute additional information, you can do so! You can find more information on [GitHub](https://)

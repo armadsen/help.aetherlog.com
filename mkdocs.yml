@@ -41,6 +41,8 @@ pages:
     - Supported Radios: rigcontrol/supportedrigs.md
     - Settings: preferences/rigcontrolpreferences.md
     - PTT (Expert): rigcontrol/ptt.md
+  - Miscellaneous:
+    - Country Files: countryfiles.md
 - FAQ:
   - Lost Logbook: faq/lostlog.md
   - Aether Betas: faq/beta.md

@@ -12,11 +12,11 @@ Aether includes a built in prefix file, which I update whenever a new version of
 
 3. You will be prompted to install the file. Click Install to proceed:
 
-    ![Install prefix file prompt](images/InstallPrefixFilePrompt.png)
+    ![Install prefix file prompt](/images/InstallPrefixFilePrompt.png)
 
 4. Assuming the installation was successful, you'll see a success window. Click OK to continue
 
-    ![Install prefix file successful](./images/PrefixFileInstallSuccessful.png)
+    ![Install prefix file successful](/images/PrefixFileInstallSuccessful.png)
 
 From now on, Aether will use this file to lookup the DXCC number, CQ zone, ITU zone, and country for newly entered callsigns.
 
@@ -27,4 +27,4 @@ Manually installed prefix files *always* take precedence over Aether's built in 
 1. Quit Aether
 2. Open `~/Library/Containers/com.openreelsoftware.aether/Data/Library/Application Support/Aether`. The easiest way to do this is to choose Go->Go to Folder from the Finder's menu (or press command-shift-G), then enter this path.
 3. Delete the file cty.csv, which is the manually installed prefix file. Do not delete any other files in this folder.
-4. Relaunch Aether. 
+4. Relaunch Aether.

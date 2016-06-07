@@ -43,7 +43,7 @@ When this option is enabled, Aether will automatically lookup callbook info for 
 
 #### DXCC Code, ITU Zone, Country, CQ Zone
 
-For these options, Aether uses the callsign prefix to determine the correct values. To do so, it uses a [country file](http://www.country-files.com/contest/aether/) from AD1C. This does not require an internet connection. It is important to note that the country field's value will be overwritten by data from an online callbook source. For more information on Aether's support for country files, along with information about updating/modifying the country file Aether uses, see [this page](/countryfiles.md).
+For these options, Aether uses the callsign prefix to determine the correct values. To do so, it uses a [country file](http://www.country-files.com/contest/aether/) from AD1C. This does not require an internet connection. It is important to note that the country field's value will be overwritten by data from an online callbook source. For more information on Aether's support for country files, along with information about updating/modifying the country file Aether uses, see [this page](/misc/countryfiles.md).
 
 ## Callbook Source Settings
 

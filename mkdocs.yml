@@ -43,6 +43,7 @@ pages:
     - PTT (Expert): rigcontrol/ptt.md
   - Miscellaneous:
     - Country Files: misc/countryfiles.md
+    - Google Earth Integration: misc/googleearth.md
 - FAQ:
   - Lost Logbook: faq/lostlog.md
   - Aether Betas: faq/beta.md

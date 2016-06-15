@@ -39,7 +39,7 @@ When a new QSO is logged, Aether can automatically lookup certain information ba
 
 #### Callbook Info
 
-When this option is enabled, Aether will automatically lookup callbook info for the entered callsign as soon as you hit the return key or tab away from the callsign field. By default, this option is **enabled**. This lookup is done online, and requires an active internet connection. Callbook lookup is a larger topic, and more information can be found in the [Callbook Lookup Guide](/callbooklookup.md). Note that you can always manually do a callbook lookup for the selected QSO(s) by choosing "Lookup Callsign Data" from the Log menu, or by pressing command-L.
+When this option is enabled, Aether will automatically lookup callbook info for the entered callsign as soon as you hit the return key or tab away from the callsign field. By default, this option is **enabled**. This lookup is done online, and requires an active internet connection. Callbook lookup is a larger topic, and more information can be found in the [Callbook Lookup Guide](/callbooklookup/callbooklookup.md). Note that you can always manually do a callbook lookup for the selected QSO(s) by choosing "Lookup Callsign Data" from the Log menu, or by pressing command-L.
 
 #### DXCC Code, ITU Zone, Country, CQ Zone
 

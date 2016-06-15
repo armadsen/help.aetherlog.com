@@ -31,7 +31,7 @@ If you're a paid QRZ.com subscriber, you can configure Aether to use the QRZ.com
 2. Select the Logging tab.
 3. At the bottom of the window, notice a section for "Callbook Source".
 
-    ![QRZ Subscription Settings](images/QRZSubscriptionSettings.png)
+    ![QRZ Subscription Settings](/images/QRZSubscriptionSettings.png)
 
 4. Make sure QRZ.com is selected in the dropdown.
 5. Check the Enable checkbox.
@@ -51,7 +51,7 @@ If you have a HamQTH.com account, you can configure Aether to use HamQTH.com for
 2. Select the Logging tab.
 3. At the bottom of the window, notice a section for "Callbook Source".
 
-    ![HamQTH.com Subscription Settings](images/HamQTHSubscriptionSettings.png)
+    ![HamQTH.com Subscription Settings](/images/HamQTHSubscriptionSettings.png)
 
 4. Make sure HamQTH.com is selected in the dropdown.
 5. Check the Enable checkbox.
@@ -67,11 +67,11 @@ If you see "Failed", check to make sure you've correctly entered your username a
 
 By default, Aether will do a callbook lookup anytime you enter a callsign and hit return. This behavior can be configured by changing the "Automatically Lookup Callbook Info" setting in [Aether 's Logging Preferences](preferences/loggingpreferences.md).
 
-![Automatically Lookup Callbook Info Setting](images/AutoCallbookLookupPreference.png)
+![Automatically Lookup Callbook Info Setting](/images/AutoCallbookLookupPreference.png)
 
 Regardless of this setting, you can always manually initiate a callbook lookup of the selected QSO(s) by choosing "Lookup Callsign Data" from the Log menu, or by pressing command-L.
 
-![Lookup Callsign Data Menu Option](images/LookupCallsignDataMenuItem.png)
+![Lookup Callsign Data Menu Option](/images/LookupCallsignDataMenuItem.png)
 
 ## Looking Up Callbook Data for Multiple QSOs
 
@@ -80,4 +80,4 @@ Sometimes, it's useful to be able to lookup callbook data for more than one QSO 
 1. Select the QSOs for which you want to lookup callbook data in the QSO table. You can do this by shift clicking on a range of QSOs, or by command clicking on the QSOs you want to select. If you want to do callbook lookup for all QSOs in your log, you can select one, then do Edit->Select All (or press command-A).
 2. Choose "Lookup Callsign Data" from the Log menu, or press command-L. Aether will begin looking up callbook data for all the selected QSOs, and will show a progress bar while it does so.
 
-![Multiple QSO Callbook Lookup](images/MultipleCallbookLookup.png)
+![Multiple QSO Callbook Lookup](/images/MultipleCallbookLookup.png)

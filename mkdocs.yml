@@ -51,6 +51,7 @@ pages:
     - Google Earth Integration: misc/googleearth.md
 - FAQ:
   - Lost Logbook: faq/lostlog.md
+  - Lost License: faq/lostlicense.md
   - Aether Betas: faq/beta.md
 
 theme: flatly

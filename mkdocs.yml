@@ -14,6 +14,9 @@ pages:
   - Contest Logging:
     - Cabrillo: contesting/cabrillo.md
     - TX/RX Exch.: contesting/txrxexch.md
+  - eQSL.cc:
+    - Basics: eqsl/eqsl.md
+    - Troubleshooting: eqsl/eqsltroubleshooting.md
   - Logbook of the World:
     - Setup: lotw/lotwsetup.md
     - Certificates:

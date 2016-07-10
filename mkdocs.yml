@@ -5,6 +5,7 @@ pages:
   - Installing Aether: installing.md
   - Getting Started: gettingstarted.md
   - Preferences: preferences/preferences.md
+  - Station Info: stationinfo.md
   - Callbook Lookup: callbooklookup/callbooklookup.md
   - Rig Control: rigcontrol/rigcontrol.md
   - Awards Tracking: awards/awardstracking.md

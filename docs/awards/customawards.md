@@ -6,7 +6,7 @@ Aether includes the built in ability to track several awards. It is also possibl
 
 ## File Format
 
-Aether awards definition files are plain text files whose contents are [JSON](http://www.json.org) data. The order of fields in the file is not important. For example, for a DXCC award definition, the contents of the file would be:
+Aether awards definition files are plain text files whose contents are [JSON](http://www.json.org) data. The top level item in the JSON file must be a dictionary whose contents describe the award being defined. The order of fields in the dictionary is not important. An awards definition file may only contain the definition of a single award. For example, for a DXCC award definition, the contents of the file would be:
 
 ```
 {

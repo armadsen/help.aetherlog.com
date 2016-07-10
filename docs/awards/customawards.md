@@ -4,7 +4,33 @@ Aether includes the built in ability to track several awards. It is also possibl
 
 **Important:** The feature described on this page is currently only available in the latest [beta version](/faq/beta.md) of Aether. The release version of Aether available on the app store as well as my website does not currently contain support for custom award definitions.
 
-## Award Definition Structure
+## File Format
+
+Aether awards definition files are plain text files whose contents are [JSON](http://www.json.org) data. The order of fields in the file is not important. For example, for a DXCC award definition, the contents of the file would be:
+
+```
+{
+  "awardName" : "DX Century Club",
+  "awardShortName" : "DXCC",
+  "awardSponsor" : "ARRL",
+  "awardWebsite" : "http:\/\/www.arrl.org\/dxcc",
+  "numberOfQSOsRequired" : 100,
+  "mainQualifierKeyPathInQSO" : "callbookInfo.dxcc",
+  "additionalRelevantKeys" : [
+    "callbookInfo.country"
+  ]
+}
+```
+
+A detailed description of the available fields, their purpose, and example values are given in the [Award Definition Fields](#award-definition-fields) section of this page.
+
+A JSON linter like [jsonlint.com]() can be used to verify that your file is correctly formatted according to the JSON standard. Note that this *does not* verify that e.g. the field names Aether expects are correct, merely that the file is structurally correct.
+
+Files must be saved with the extension `.awardsdef` to be recognized by Aether. See the [Loading Into Aether](#loading-into-aether) section below for details on installing a custom award definition file in Aether.
+
+I've posted the awards definition files that Aether ships with on GitHub: https://github.com/armadsen/AetherAwards . They can be used as reference examples when creating your own custom award definition files. You can also modify these files and load them to customize tracking for the built in awards.
+
+## Award Definition Fields
 
 Awards definitions in Aether include several fields. The table below lists these fields, including a description of the field's purpose, and whether or not it is optional. The descriptions use the example of the ARRL's Worked All States award to illustrate how they work.
 
@@ -78,30 +104,6 @@ DXCC Number           | callbookInfo.dxcc       | Number   | 291
 CQ Zone               | callbookInfo.ituZone    | Number   | 6
 CQ Zone               | callbookInfo.cqZone     | Number   | 5
 IOTA island           | callbookInfo.iota       | String   | "NA-065"
-
-## File Format
-
-Aether awards definition files are plain text files whose contents are [JSON](http://www.json.org) data. The order of fields in the file is not important. For example, for a DXCC award definition, the contents of the file would be:
-
-```
-{
-  "awardName" : "DX Century Club",
-  "awardShortName" : "DXCC",
-  "awardSponsor" : "ARRL",
-  "awardWebsite" : "http:\/\/www.arrl.org\/dxcc",
-  "numberOfQSOsRequired" : 100,
-  "mainQualifierKeyPathInQSO" : "callbookInfo.dxcc",
-  "additionalRelevantKeys" : [
-    "callbookInfo.country"
-  ]
-}
-```
-
-A JSON linter like [jsonlint.com]() can be used to verify that your file is correctly formatted according to the JSON standard. Note that this *does not* verify that e.g. the field names Aether expects are correct, merely that the file is structurally correct.
-
-Files must be saved with the extension `.awardsdef` to be recognized by Aether. See the [Loading Into Aether](#loading-into-aether) section below for details on installing a custom award definition file in Aether.
-
-I've posted the awards definition files that Aether ships with on GitHub: https://github.com/armadsen/AetherAwards . They can be used as reference examples when creating your own custom award definition files. You can also modify these files and load them to customize tracking for the built in awards.
 
 ## Loading Into Aether
 

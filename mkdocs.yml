@@ -11,6 +11,7 @@ pages:
 - Guides:
   - Awards Tracking:
     - Basics: awards/awardstracking.md
+    - Custom Awards: awards/customawards.md
   - Callbook Lookup:
     - Basics: callbooklookup/callbooklookup.md
     - Troubleshooting: callbooklookup/callbooktroubleshooting.md

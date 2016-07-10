@@ -18,4 +18,4 @@ Click the links below for more information about each tab:
 - [Rig Control](/preferences/rigcontrolpreferences.md) - Settings for Aether's [rig control](/rigcontrol/rigcontrol.md) feature.
 - [Logging](/preferences/loggingpreferences.md) - Settings related to actually logging QSOs in Aether.
 - [QSL](/preferences/qslpreferences.md) - Settings related to Logbook of The World and eQSL.cc
-- [Awards Tracking](/preferences/awardspreferences.md) - Settings related to Aether's [awards tracking](/awardstracking.md) feature.
+- [Awards Tracking](/preferences/awardspreferences.md) - Settings related to Aether's [awards tracking](/awards/awardstracking.md) feature.

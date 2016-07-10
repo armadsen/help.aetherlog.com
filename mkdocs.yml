@@ -7,9 +7,10 @@ pages:
   - Preferences: preferences/preferences.md
   - Callbook Lookup: callbooklookup/callbooklookup.md
   - Rig Control: rigcontrol/rigcontrol.md
-  - Awards Tracking: awardstracking.md
+  - Awards Tracking: awards/awardstracking.md
 - Guides:
-  - Awards Tracking: awardstracking.md
+  - Awards Tracking:
+    - Basics: awards/awardstracking.md
   - Callbook Lookup:
     - Basics: callbooklookup/callbooklookup.md
     - Troubleshooting: callbooklookup/callbooktroubleshooting.md

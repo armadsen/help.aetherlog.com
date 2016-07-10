@@ -2,7 +2,7 @@
 
 ![Awards Tracking Preferences Tab](/images/AwardPreferences.png)
 
-The Awards Tracking tab of Aether's preferences window contains settings related to Aether's awards tracking feature. More information about awards tracking in Aether can be found [here](/awardstracking.md).
+The Awards Tracking tab of Aether's preferences window contains settings related to Aether's awards tracking feature. More information about awards tracking in Aether can be found [here](/awards/awardstracking.md).
 
 ## Indicate that QSO is needed for an award
 

@@ -65,7 +65,7 @@ If you see "Failed", check to make sure you've correctly entered your username a
 
 ### Automatic Callbook Lookup
 
-By default, Aether will do a callbook lookup anytime you enter a callsign and hit return. This behavior can be configured by changing the "Automatically Lookup Callbook Info" setting in [Aether 's Logging Preferences](preferences/loggingpreferences.md).
+By default, Aether will do a callbook lookup anytime you enter a callsign and hit return. This behavior can be configured by changing the "Automatically Lookup Callbook Info" setting in [Aether 's Logging Preferences](/preferences/loggingpreferences.md).
 
 ![Automatically Lookup Callbook Info Setting](/images/AutoCallbookLookupPreference.png)
 

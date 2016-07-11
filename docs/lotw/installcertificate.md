@@ -6,7 +6,10 @@ Once you've [requested](requestcertificate.md) and received your Logbook of The 
 
 Follow the instructions below to install an LoTW certificate in Aether:
 
-1. Open Aether.
+1. Save the attached .tq6 file from the email you received from the ARRL:
+
+    ![Certificate request response email](/images/ImportCertificate/CertificateReceiptEmail.png)
+
 2. Open Aether preferences by choosing "Preferences..." from the Aether menu, or pressing command-comma.
 
     ![Aether Preferences Menu Item](/images/AetherPreferencesMenuItem.png)

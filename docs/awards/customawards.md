@@ -34,19 +34,19 @@ I've posted the awards definition files that Aether ships with on GitHub: https:
 
 Awards definitions in Aether include several fields. The table below lists these fields, including a description of the field's purpose, and whether or not it is optional. The descriptions use the example of the ARRL's Worked All States award to illustrate how they work.
 
-Field Name                |                     Description                              | Optional
-:-----------------------: | :----------------------------------------------------------- | :------
-awardName                 | Full name of the award (e.g. "Worked All States")            | NO
-awardShortName            | Abbreviated name of the award (e.g. "WAS")                   | NO
-awardSponsor              | Name of the award's sponsor (e.g. "ARRL")                    | YES
-awardWebsite              | URL for the award's website (e.g. "http://www.arrl.org/was") | YES
-mainQualifierKeyPathInQSO | QSO key path for main qualifier value (e.g. "callbookInfo.state") | NO
-numberOfQSOsRequired      | Number of QSOs required to receive the award (e.g. 50)       | YES
-achievementLevels         | List of number of QSO thresholds for additional achievements | YES
-possibleMainKeyValues     | Possible values for the main qualifier value (e.g. List of the 50 states) | YES
-additionalRelevantKeys    | Key paths for values to show as additional columns in the awards window | YES
-uniquingKeys              | Key paths for values that cause QSOs to be treated as unique | YES
-requiredFixedKeysAndValues| Key paths and corresponding values that must be set for a QSO to count | YES
+|         Field Name         | Description                                                               | Optional |
+|:--------------------------:|:--------------------------------------------------------------------------|:---------|
+|         awardName          | Full name of the award (e.g. "Worked All States")                         | NO       |
+|       awardShortName       | Abbreviated name of the award (e.g. "WAS")                                | NO       |
+|        awardSponsor        | Name of the award's sponsor (e.g. "ARRL")                                 | YES      |
+|        awardWebsite        | URL for the award's website (e.g. "http://www.arrl.org/was")              | YES      |
+| mainQualifierKeyPathInQSO  | QSO key path for main qualifier value (e.g. "callbookInfo.state")         | NO       |
+|    numberOfQSOsRequired    | Number of QSOs required to receive the award (e.g. 50)                    | YES      |
+|     achievementLevels      | List of number of QSO thresholds for additional achievements              | YES      |
+|   possibleMainKeyValues    | Possible values for the main qualifier value (e.g. List of the 50 states) | YES      |
+|   additionalRelevantKeys   | Key paths for values to show as additional columns in the awards window   | YES      |
+|        uniquingKeys        | Key paths for values that cause QSOs to be treated as unique              | YES      |
+| requiredFixedKeysAndValues | Key paths and corresponding values that must be set for a QSO to count    | YES      |
 
 Some of these fields, like `awardName` are fairly self explanatory. For those that are not, see the detailed descriptions below.
 
@@ -90,20 +90,20 @@ For example, for Worked All States, this field is used to specify that QSO's mus
 
 Several of the fields in an award definition have a value that is a [key path](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueCoding/Articles/BasicPrinciples.html#//apple_ref/doc/uid/20002170-183455) for a QSO. The table below lists the key path for several common values. If one you'd like to use isn't listed here, please [contact Aether support](mailto:support@aetherlog.com) for assistance.
 
-Value                 | Key path                | Type     | Example Value
---------------------- | ----------------------- | -------- | -------------
-Callsign              | callsign                | String   | "AC7CF"
-Operating Mode        | mode                    | String   | "CW"
-Frequency (in MHz)    | frequency               | Number   | 14.060
-Band                  | band                    | String   | "20m"
-State                 | callbookInfo.state      | String   | "UT"
-County                | callbookInfo.county     | String   | "Salt Lake"
-Country               | callbookInfo.country    | String   | "United States of America"
-Grid Square           | callbookInfo.gridSquare | String   | DN40br
-DXCC Number           | callbookInfo.dxcc       | Number   | 291
-CQ Zone               | callbookInfo.ituZone    | Number   | 6
-CQ Zone               | callbookInfo.cqZone     | Number   | 5
-IOTA island           | callbookInfo.iota       | String   | "NA-065"
+| Value              | Key path                | Type   | Example Value              |
+|:-------------------|:------------------------|:-------|:---------------------------|
+| Callsign           | callsign                | String | "AC7CF"                    |
+| Operating Mode     | mode                    | String | "CW"                       |
+| Frequency (in MHz) | frequency               | Number | 14.060                     |
+| Band               | band                    | String | "20m"                      |
+| State              | callbookInfo.state      | String | "UT"                       |
+| County             | callbookInfo.county     | String | "Salt Lake"                |
+| Country            | callbookInfo.country    | String | "United States of America" |
+| Grid Square        | callbookInfo.gridSquare | String | DN40br                     |
+| DXCC Number        | callbookInfo.dxcc       | Number | 291                        |
+| CQ Zone            | callbookInfo.ituZone    | Number | 6                          |
+| CQ Zone            | callbookInfo.cqZone     | Number | 5                          |
+| IOTA island        | callbookInfo.iota       | String | "NA-065"                   |
 
 ## Loading Into Aether
 

@@ -1,12 +1,12 @@
 ## Overview
 
-Before you can begin using LoTW, you need a certificate which is used by the LoTW system to securely sign QSOs that you upload. This page describes the process for requesting a certificate using Aether.
+Before you can begin using Logbook of The World (LoTW), you need a certificate which is used by the LoTW system to securely sign QSOs that you upload. This page describes the process for requesting a certificate using Aether.
 
 The ARRL's TQSL software can also be used to request and install LoTW certificates. Most instructions for setting up LoTW describe how to use TQSL. Please note that TQSL is **not** required to use Aether with LoTW. In fact, if you are exclusively using Aether to do your logging, it is generally easier not to use TQSL at all. That said, Aether and TQSL can happily coexist. If you have already requested a certificate using TQSL and installed it there, you do not need to (and should not) request a new certificate using Aether. Instead, you can export the certificate you have in TQSL to Aether using the instructions on [this page](/lotw/exportp12fromtqsl.md).
 
 ## Requesting A Certificate
 
-Follow the instructions below to request a certificate using Aether:
+Follow the instructions below to request a LoTW certificate using Aether:
 
 1. Open Aether.
 2. Open Aether preferences by choosing "Preferences..." from the Aether menu, or pressing command-comma.

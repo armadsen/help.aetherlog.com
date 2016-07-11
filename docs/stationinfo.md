@@ -8,6 +8,8 @@ This page includes information about how Aether handles station information.
 
 You can view the station info window in Aether by choosing View->Show My Station Info in the menubar (or by pressing command-shift-I). In the window that appears, fill in the information for your station. Assuming you're operating from home, you can enter your callsign and click "Lookup Callsign" to quickly fill in most of the information using an online callbook lookup.
 
+![Station Info Window](images/StationInfoWindow.png)
+
 ## Make Default
 
 In order to avoid needing to re-enter your station info every time you create a new logbook, you can set default station info. To do so, enter your information in the station info window, then click the "Make Default" button at the bottom. This will save the station info you've entered and will automatically fill it into new logbook files when you creat them.

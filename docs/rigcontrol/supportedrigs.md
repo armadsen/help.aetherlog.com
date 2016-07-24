@@ -85,3 +85,9 @@ This page lists the rigs that Aether officially supports for rig control. For ri
 - FT-2000
 - FTdx5000
 - FTdx9000
+
+## Support For New Rigs
+
+I rely on Aether users to test support for rigs that I don't own. I will only add official support for a rig after having someone confirm that it works with Aether. Most new radios use the same or a very similar CAT protocol as other radios made recently by the same manufacturer. If your radio isn't on this list, please try selecting a similar radio in Aether's Rig Control settings. Whether or not it works, please [email Aether support](mailto:support@aetherlog.com) to tell me that which rig you're using, and which rig settings work with it so I can add official support for it to Aether.
+
+Note that many modern Yaesu radios use Kenwood's CAT protocol, so for new Yaesu radios, it makes sense to try a Kenwood setting (e.g. TS-2000).

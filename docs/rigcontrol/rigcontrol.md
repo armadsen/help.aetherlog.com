@@ -52,7 +52,7 @@ You can also manually update the selected QSO with the current rig data at any t
 
 ## Help
 
-Please see the [rig control troubleshooting](/rigcontrol/rigcontroltroubleshooting.md) page for information about troubleshooting rig control in Aether.
+Please see the [rig control troubleshooting](/rigcontrol/troubleshooting.md) page for information about troubleshooting rig control in Aether.
 
 If you have any trouble with rig control in Aether, and have not been able to fix the problem using the information here, you can [contact Aether support](http://www.aetherlog.com/contact.html).
 

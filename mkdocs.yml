@@ -50,6 +50,7 @@ pages:
     - Supported Radios: rigcontrol/supportedrigs.md
     - Settings: preferences/rigcontrolpreferences.md
     - PTT (Expert): rigcontrol/ptt.md
+    - Troubleshooting: rigcontrol/troubleshooting.md
   - Miscellaneous:
     - Country Files: misc/countryfiles.md
     - Google Earth Integration: misc/googleearth.md

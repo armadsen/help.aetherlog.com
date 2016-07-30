@@ -6,7 +6,9 @@ Aether has full-featured support for being scripted using AppleScript. However, 
 
 Aether supports URLs using a custom `aether` scheme. Currently a single "host" is supported, `logqso`, which creates and logs a new QSO in the frontmost open Aether document. An example URL that will log a QSO with AC7CF on 20m CW is shown below:
 
-`aether://logqso?callsign=ac7cf&band=20m&mode=CW&lookupCallbookInfo=true`
+[aether://logqso?callsign=ac7cf&band=20m&mode=CW&lookupCallbookInfo=true](aether://logqso?callsign=ac7cf&band=20m&mode=CW&lookupCallbookInfo=true)
+
+If you are running Aether 1.6.3 (1531) or later, clicking the above link will open Aether and log a QSO!
 
 The below table shows the complete list of supported query parameters:
 

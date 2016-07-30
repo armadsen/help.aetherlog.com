@@ -54,6 +54,7 @@ pages:
   - Miscellaneous:
     - Country Files: misc/countryfiles.md
     - Google Earth Integration: misc/googleearth.md
+    - Logging Using aether:// URLs: misc/logurl.md
 - FAQ:
   - Lost Logbook: faq/lostlog.md
   - Lost License: faq/lostlicense.md

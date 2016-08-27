@@ -59,5 +59,6 @@ pages:
   - Lost Logbook: faq/lostlog.md
   - Lost License: faq/lostlicense.md
   - Aether Betas: faq/beta.md
+  - Mode Support: faq/modedropdown.md
 
 theme: flatly

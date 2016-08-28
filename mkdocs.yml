@@ -43,6 +43,9 @@ pages:
     - Logging: preferences/loggingpreferences.md
     - QSL: preferences/qslpreferences.md
     - Awards Tracking: preferences/awardspreferences.md
+  - Printing:
+    - Logbooks: printing/logbooks.md
+    - Labels: printing/labels.md
   - Rig Control:
     - Overview: rigcontrol/rigcontrol.md
     - Interfaces: rigcontrol/riginterfaces.md

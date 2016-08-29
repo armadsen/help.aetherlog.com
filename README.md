@@ -26,7 +26,7 @@ You can also use mkdocs' `serve` command to see a live-reloading preview of the 
 
 ## Contributing
 
-Contributions to help.aetherlog.com are most welcome. Whether you'd like to report or fix a mistake, add new content yourself, or simply ask a question, your input is valuable If you'd just like to report a mistake or ask a question, please [open an issue](../../issues/new). If you would like to make a change yourself, fork this repo, make the change (see further instructions below for adding new pages), then submit a [pull request](https://help.github.com/articles/using-pull-requests/). See [CONTRIBUTING](contributing.md) for more information about contributing to the site.
+Contributions to help.aetherlog.com are most welcome. Whether you'd like to report or fix a mistake, add new content yourself, or simply ask a question, your input is valuable. If you'd just like to report a mistake or ask a question, please [open an issue](../../issues/new). If you would like to make a change yourself, fork this repo, make the change (see further instructions below for adding new pages), then submit a [pull request](https://help.github.com/articles/using-pull-requests/). See [CONTRIBUTING](CONTRIBUTING.md) for more information about contributing to the site.
 
 ## Adding a Page
 

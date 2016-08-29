@@ -15,4 +15,4 @@ This site is a work in progress, and therefore, there are a small number of page
 
 ## Open Source
 
-This entire site is open source. This means that if you find a mistake, have a question not answered here, or would like to help contribute additional information, you can do so! You can find more information on [GitHub](https://)
+This entire site is open source. This means that if you find a mistake, have a question not answered here, or would like to help contribute additional information, you can do so! You can find more information on [GitHub](https://github.com/armadsen/help.aetherlog.com).

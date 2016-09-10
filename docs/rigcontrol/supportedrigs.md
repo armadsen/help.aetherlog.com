@@ -35,7 +35,9 @@ This page lists the rigs that Aether officially supports for rig control. For ri
 - IC-910H
 - IC-970
 - IC-7000
+- IC-7100
 - IC-7200
+- IC-7300
 - IC-7400
 - IC-7600
 - IC-7800
@@ -79,6 +81,7 @@ This page lists the rigs that Aether officially supports for rig control. For ri
 - FT-897
 - FT-950
 - FT-990
+- FT-991
 - FT-1000D
 - FT-1000MP
 - FT-1000MP Mark-V Field

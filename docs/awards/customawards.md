@@ -1,8 +1,6 @@
 ## Overview
 
-Aether includes the built in ability to track several awards. It is also possible to create custom award definitions to allow tracking additional awards. This page describes how to create these custom awards definition files. Note that this feature is intended for advanced users of Aether.
-
-**Important:** The feature described on this page is currently only available in the latest [beta version](/faq/beta.md) of Aether. The release version of Aether available on the app store as well as my website does not currently contain support for custom award definitions.
+Aether includes the built in ability to track several awards. It is also possible to create custom award definitions to allow tracking additional awards. This page describes how to create these custom awards definition files. Note that this feature is intended for advanced users of Aether. This feature was introduced in version 1.6.3 of Aether and is not supported in earlier versions.
 
 ## File Format
 

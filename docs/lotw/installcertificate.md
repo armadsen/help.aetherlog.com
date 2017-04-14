@@ -44,6 +44,6 @@ The most common reason for a failure when importing a certificate is due to a mi
 
 There are two simple solutions to this problem:
 
-- The first is to export your certificate(s) after successful installation into a file that contains both the private key and the certificate data sent by the ARRL. This file is called a "PKCS12" file, or ".p12" for short. You can find instructions for exporting a .p12 file from TQSL [here](exportp12fromtqsl). This file can be transferred to another computer and successfully imported to install your LoTW certificate(s) on that computer. It's a good idea to save this and keep a backup of it in case you need to transfer your certificates or even simply restore them on the same computer for some reason.
+- The first is to export your certificate(s) after successful installation into a file that contains both the private key and the certificate data sent by the ARRL. This file is called a "PKCS12" file, or ".p12" for short. You can find instructions for exporting a .p12 file from TQSL [here](exportp12). This file can be transferred to another computer and successfully imported to install your LoTW certificate(s) on that computer. It's a good idea to save this and keep a backup of it in case you need to transfer your certificates or even simply restore them on the same computer for some reason.
 
 - The second solution is to simply [request](requestcertificate) a new certificate on the new computer.

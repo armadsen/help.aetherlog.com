@@ -28,7 +28,7 @@ pages:
     - Certificates:
       - Requesting a Certificate: lotw/requestcertificate.md
       - Installing a Certificate: lotw/installcertificate.md
-      - Exporting a p12 from TQSL: lotw/exportp12fromtqsl.md
+      - Exporting p12 Files: lotw/exportp12.md
       - Troubleshooting Certificates: lotw/certificatetroubleshooting.md
     - LoTW Settings: preferences/qslpreferences.md
     - Syncing with LoTW: lotw/syncinglotw.md

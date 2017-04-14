@@ -1,8 +1,13 @@
 ## Overview
 
-After you request an LoTW certificate, you receive a .tq6 file from the ARRL. This file can only be imported into the same program that was used to request it. Often, Aether users request a certificate with TQSL, then try to import the .tq6 file they receive into Aether, which doesn't work. The solution is to export a .p12 file from TQSL, then import _that_ into Aether. This page explains how to do this.
+After you request an LoTW certificate, you receive a .tq6 file from the ARRL. This file can only be imported into the same program that was used to request it. 
+This page explains how to work with .p12 files.
 
-Note that this process works the reverse way too. It is possible to export a .p12 file from Aether and import it into TQSL (or Aether on another computer), as well.
+## Common Problems Solved
+
+Often, Aether users request a certificate with TQSL, then try to import the .tq6 file they receive into Aether, which doesn't work. The solution is to export a .p12 file from TQSL, then import _that_ into Aether.  Note that this process works the reverse way too. It is possible to export a .p12 file from Aether and import it into TQSL (or Aether on another computer), as well.
+
+Along the same lines, you cannot use the .tq6 file you receive from the ARRL as a backup of your certificate, since you won't be able to import it into software on a new computer, or after resetting your LoTW settings. Exporting your certificates as .p12 files, then backing _those_ up is a good solution.
 
 ## Export .p12 From TQSL
 
@@ -31,6 +36,38 @@ Follow the steps below to export a .p12 file from TQSL, which you will then be a
     ![TQSL P12 Export Save Successful](/images/ExportP12/P12SaveSuccessful.png)
 
 You're now ready to import the .p12 certificate file into Aether.
+
+## Export .p12 From Aether
+
+Follow the steps below to export a .p12 file from Aether, which you will then be able to import into TQSL or Aether on another computer.
+
+1. Open Aether.
+2. Open Aether preferences by choosing "Preferences..." from the Aether menu, or pressing command-comma.
+
+    ![Aether Preferences Menu Item](/images/AetherPreferencesMenuItem.png)
+
+3. Select the QSL tab of preferences.
+4. Click the "Manage Certificates..." button:
+
+    ![Aether Manage Certificates Button](/images/ExportP12/AetherQSLPreferencesManageCertificates.png)
+
+5. In the Manage LoTW Certificates window, select the certificate(s) you'd like to export:
+
+	![Aether Manage Certificates Select Certificate](/images/ExportP12/ManageLoTWWindowCertSelected.png)
+
+6. In the Manage LoTW Certificates window, click the Export button:
+
+    ![Aether Manage Certificates Import Button](/images/ExportP12/ManageCertificatesExportButton.png)
+
+7. Choose a name and location to save the exported certificate, then click Save.
+
+8. You'll be prompted to enter the password for the certificate. This is the password you used when originally importing the .tq6 certificate file. It may be blank.
+
+    ![Aether P12 Export Create Password](/images/ExportP12/ExportCertEnterPassword.png)
+
+9. If everything worked, the .p12 file will be saved in the location you chose.
+
+You're now ready to import the .p12 certificate file into another program.
 
 ## Import .p12 into Aether
 

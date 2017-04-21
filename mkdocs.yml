@@ -55,6 +55,7 @@ pages:
     - PTT (Expert): rigcontrol/ptt.md
     - Troubleshooting: rigcontrol/troubleshooting.md
   - Miscellaneous:
+    - Debug Log: misc/debuglog.md
     - Country Files: misc/countryfiles.md
     - Google Earth Integration: misc/googleearth.md
     - Logging Using aether:// URLs: misc/logurl.md

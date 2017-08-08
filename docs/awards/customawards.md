@@ -26,7 +26,7 @@ A JSON linter like [jsonlint.com]() can be used to verify that your file is corr
 
 Files must be saved with the extension `.awardsdef` to be recognized by Aether. See the [Loading Into Aether](#loading-into-aether) section below for details on installing a custom award definition file in Aether.
 
-I've posted the awards definition files that Aether ships with on GitHub: https://github.com/armadsen/AetherAwards . They can be used as reference examples when creating your own custom award definition files. You can also modify these files and load them to customize tracking for the built in awards.
+I've posted the awards definition files that Aether ships with on GitHub: [https://github.com/armadsen/AetherAwards](https://github.com/armadsen/AetherAwards) . They can be used as reference examples when creating your own custom award definition files. You can also modify these files and load them to customize tracking for the built in awards.
 
 ## Award Definition Fields
 

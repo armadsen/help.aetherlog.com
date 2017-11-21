@@ -105,6 +105,6 @@ Several of the fields in an award definition have a value that is a [key path](h
 
 ## Loading Into Aether
 
-To load an awards definition file into Aether, drag it onto Aether's icon in the Dock while holding down the command and option keys. You'll be asked if you'd like to install it. Click Install, and Aether will install it for you. You can also manually install awards definition files by copying them into ~/Library/Containers/com.openreelsoftware.aether/Data/Library/Application Support/Aether.
+To load an awards definition file into Aether, drag it onto Aether's icon in the Dock. You'll be asked if you'd like to install it. Click Install, and Aether will install it for you. You can also manually install awards definition files by copying them into ~/Library/Containers/com.openreelsoftware.aether/Data/Library/Application Support/Aether.
 
 Note that currently, if an awards tracking window is already open, it will not show a newly installed award. To workaround this, you should quit and restart Aether after installing a new awards definition file. This is a limitation that will be fixed in a future release of Aether.

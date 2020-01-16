@@ -11,16 +11,20 @@ The site is deployed using [mkdocs](http://www.mkdocs.org), which is a static si
 1. Install mkdocs by following the instructions [here](http://www.mkdocs.org/#installation). In short:
 
     `pip install mkdocs`
+    
+2. Install the Bootstrap/Bootswatch themes:
 
-2. Clone the repository:
+	`pip install mkdocs-bootswatch`
+
+3. Clone the repository:
 
     `git clone https://github.com/armadsen/help.aetherlog.com.git`
 
-3. Build the site using mkdocs:
+4. Build the site using mkdocs:
 
     `mkdocs build`
 
-4. Find the output in the `./site` directory.
+5. Find the output in the `./site` directory.
 
 You can also use mkdocs' `serve` command to see a live-reloading preview of the site while you make changes.
 

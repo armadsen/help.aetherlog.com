@@ -43,6 +43,7 @@ pages:
     - Logging: preferences/loggingpreferences.md
     - QSL: preferences/qslpreferences.md
     - Awards Tracking: preferences/awardspreferences.md
+    - Hidden Preferences: preferences/hiddenpreferences.md
   - Printing:
     - Logbooks: printing/logbooks.md
     - Labels: printing/labels.md

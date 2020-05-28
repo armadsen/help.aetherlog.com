@@ -1,17 +1,17 @@
 ## Overview
 
-Aether's rig control feature allows you to connect your radio to your Mac and have Aether automatically read -- and log -- your current frequency, mode, and power. This capability is made possible by the fact that nearly all HF amateur radios sold within the last 30 years include a port for rig control, sometimes called a CAT (Computer Aided Transceiver) port. With rig control set up and enabled, instead of manually entering the frequency, mode, and power level for each QSO you log, Aether can automatically pull this data from your rig, making logging easier. For a list of supported rigs see [this page](/rigcontrol/supportedrigs.md).
+Aether's rig control feature allows you to connect your radio to your Mac and have Aether automatically read -- and log -- your current frequency, mode, and power. This capability is made possible by the fact that nearly all HF amateur radios sold within the last 30 years include a port for rig control, sometimes called a CAT (Computer Aided Transceiver) port. With rig control set up and enabled, instead of manually entering the frequency, mode, and power level for each QSO you log, Aether can automatically pull this data from your rig, making logging easier. For a list of supported rigs see [this page](rigcontrol/supportedrigs.md).
 
 This page contains information about the feature, and how to enable it.
 
 ## Set Up
 
 #### Interface
-In order to use the rig control feature in Aether, you need to do some set up. First, you'll need an appropriate hardware interface (often called a "CAT interface") to connect your Mac to your radio. The exact interface will depend on the rig you have. See [this page](/rigcontrol/riginterfaces.md) for detailed information about choosing the correct interface hardware for your radio.
+In order to use the rig control feature in Aether, you need to do some set up. First, you'll need an appropriate hardware interface (often called a "CAT interface") to connect your Mac to your radio. The exact interface will depend on the rig you have. See [this page](rigcontrol/riginterfaces.md) for detailed information about choosing the correct interface hardware for your radio.
 
 #### Drivers
 
-Most CAT interfaces require the installation of a driver on your Mac in order to operate. [This page](/rigcontrol/rigdrivers.md) has detailed information about available drivers, and how to choose the correct one for your interface.
+Most CAT interfaces require the installation of a driver on your Mac in order to operate. [This page](rigcontrol/rigdrivers.md) has detailed information about available drivers, and how to choose the correct one for your interface.
 
 #### Rig Setup
 
@@ -52,7 +52,7 @@ You can also manually update the selected QSO with the current rig data at any t
 
 ## Help
 
-Please see the [rig control troubleshooting](/rigcontrol/troubleshooting.md) page for information about troubleshooting rig control in Aether.
+Please see the [rig control troubleshooting](rigcontrol/troubleshooting.md) page for information about troubleshooting rig control in Aether.
 
 If you have any trouble with rig control in Aether, and have not been able to fix the problem using the information here, you can [contact Aether support](http://www.aetherlog.com/contact.html).
 

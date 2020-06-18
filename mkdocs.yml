@@ -1,5 +1,5 @@
 site_name: Aether Help
-pages:
+nav:
 - Home: index.md
 - Getting Started:
   - Installing Aether: installing.md

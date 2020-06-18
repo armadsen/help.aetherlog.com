@@ -31,7 +31,7 @@ Here are links to drivers for all four chipsets:
 
 - Keyspan driver: [http://www.tripplite.com/high-speed-usb-to-serial-adapter-keyspan~USA19HS/](http://www.tripplite.com/high-speed-usb-to-serial-adapter-keyspan~USA19HS/) (Click Support, then find the appropriate driver.)
 - FTDI: [http://www.ftdichip.com/Drivers/VCP.htm](http://www.ftdichip.com/Drivers/VCP.htm) (only needed on OS X 10.8 and lower)
-- Silicon Labs: [http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx](http://www.silabs.com/products/mcu/pages/usbtouartbridgevcpdrivers.aspx)
+- Silicon Labs: [https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 - Prolific: [http://www.prolific.com.tw/US/supportDownload.aspx?FileType=56&FileID=133&pcid=85&Page=0](http://www.prolific.com.tw/US/supportDownload.aspx?FileType=56&FileID=133&pcid=85&Page=0) (login with GUEST/GUEST)
 - Third-party, open source Prolific driver: [https://github.com/mpepping/osx-pl2303/](https://github.com/mpepping/osx-pl2303/)
 

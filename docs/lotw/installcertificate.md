@@ -1,6 +1,6 @@
 ## Overview
 
-Once you've [requested](requestcertificate.md) and received your Logbook of The World (LoTW) certificate, you need to install it in Aether. This page describes the process for doing so.
+Once you've [requested](requestcertificate) and received your Logbook of The World (LoTW) certificate, you need to install it in Aether. This page describes the process for doing so.
 
 ## Installing a Certificate
 

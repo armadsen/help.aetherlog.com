@@ -2,7 +2,7 @@
 
 ![Rig Control Preferences Tab](/images/RigControlPreferences.png)
 
-The Rig Control tab of preferences allows you to configure and enable rig control in Aether. The settings here are mostly self explanatory and more information about rig control can be found in the [Rig Control Guide](/rigcontrol/rigcontrol.md).
+The Rig Control tab of preferences allows you to configure and enable rig control in Aether. The settings here are mostly self explanatory and more information about rig control can be found in the [Rig Control Guide](/rigcontrol/rigcontrol).
 
 #### microHAM Interface
 

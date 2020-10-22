@@ -38,4 +38,4 @@ When "Automatically check for updates" is enabled, Aether will check for updates
 
 #### Include beta versions
 
-When "Include beta versions" is enabled, Aether will also check for pre-release beta test versions of Aether when it does its update check. This option is **disabled** by default, and is only recommended for use by advanced users, or when directed to by Aether support. By enabling this option, you Aether will update itself to the very latest beta releases, which may contain bugs, but also contain new features being worked on. For more information see [this page](/faq/beta.md).
+When "Include beta versions" is enabled, Aether will also check for pre-release beta test versions of Aether when it does its update check. This option is **disabled** by default, and is only recommended for use by advanced users, or when directed to by Aether support. By enabling this option, you Aether will update itself to the very latest beta releases, which may contain bugs, but also contain new features being worked on. For more information see [this page](/faq/beta).

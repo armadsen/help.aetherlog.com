@@ -2,7 +2,7 @@
 
 ![QSL Preferences Tab](/images/QSLPreferences.png)
 
-The QSL tab of the preferences window contains settings related to using Aether with Logbook of The World (LoTW) and eQSL.cc. These are both deep topics, and much more information about them can be found in the [LoTW Guide](/lotw/lotwsetup.md) and the [eQSL.cc Guide](/eqsl/eqsl.md).
+The QSL tab of the preferences window contains settings related to using Aether with Logbook of The World (LoTW) and eQSL.cc. These are both deep topics, and much more information about them can be found in the [LoTW Guide](/lotw/lotwsetup) and the [eQSL.cc Guide](/eqsl/eqsl).
 
 ## Logbook of The World Settings
 
@@ -16,7 +16,7 @@ When the "Automatically sync log with LoTW" option is enabled, Aether will autom
 
 ![Manage Certificates Window](/images/ExportP12/ManageCertificatesFull.png)
 
-The "Manage Certificates..." button opens the Manage LoTW Certificates window. Using this window, you can view your installed LoTW certificates, request a new certificate, as well as import and export certificates. This is all covered in detail in the Certificates section of the LoTW Guide, starting on [this page](/lotw/requestcertificate.md).
+The "Manage Certificates..." button opens the Manage LoTW Certificates window. Using this window, you can view your installed LoTW certificates, request a new certificate, as well as import and export certificates. This is all covered in detail in the Certificates section of the LoTW Guide, starting on [this page](/lotw/requestcertificate).
 
 ## eQSL.cc Settings
 

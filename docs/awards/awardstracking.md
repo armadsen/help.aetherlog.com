@@ -40,4 +40,4 @@ The bottom includes a list of QSOs that count toward your earning the award. You
 
 ## Award Settings
 
-Aether has a few settings related to awards tracking. For more information see the [Awards Tracking Preferences Page](/preferences/awardspreferences.md).
+Aether has a few settings related to awards tracking. For more information see the [Awards Tracking Preferences Page](/preferences/awardspreferences).

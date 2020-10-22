@@ -56,8 +56,8 @@ If Aether encounters an error in performing any of the above steps, it reports t
 
 Having explained these processes, we can talk about common problems encountered when using Aether with LoTW. These are discussed on the following pages:
 
-- [Certificate Troubleshooting](certificatetroubleshooting.md)
-- [Missing Logs on the LoTW Website](lotwuploadtroubleshooting.md)
+- [Certificate Troubleshooting](certificatetroubleshooting)
+- [Missing Logs on the LoTW Website](lotwuploadtroubleshooting)
 
 ## Debug Log
 

@@ -1,6 +1,6 @@
 ## Overview
 
-This page gives information about troubleshooting problems with Aether's [rig control](rigcontrol.md) feature. Before troubleshooting problems, please make sure you've followed all the steps to set up rig control. You can find step by step instructions on [this page](rigcontrol/#set-up).
+This page gives information about troubleshooting problems with Aether's [rig control](rigcontrol) feature. Before troubleshooting problems, please make sure you've followed all the steps to set up rig control. You can find step by step instructions on [this page](rigcontrol/#set-up).
 
 This troubleshooting page is organized into sections based on common problems. Find the section for the problem you're having for information about troubleshooting and solving it.
 
@@ -14,7 +14,7 @@ This indicates that Aether is unable to detect the USB to serial adapter interfa
 
 1. Make sure that the interface is connected to Aether. If your radio has a USB port for rig control, meaning it contains an internal USB to serial adapter, make sure the radio is powered on.
 
-2. Make sure you have installed the correct driver for your interface. Most USB to serial adapters as well as radios with a built in adapter require the installation of a driver. Find more information about drivers on [this page](rigdrivers.md).
+2. Make sure you have installed the correct driver for your interface. Most USB to serial adapters as well as radios with a built in adapter require the installation of a driver. Find more information about drivers on [this page](rigdrivers).
 
 3. If your interface is connected, and you're sure the driver is installed, you can check to see if the OS X operating system itself can see your interface. To do so, open Terminal, which you can find in `/Applications/Utilities` (Go->Utilities in Finder, or search for 'Terminal' with Spotlight). In the window that appears, type or copy and paste the following commands pressing return after each line:
 

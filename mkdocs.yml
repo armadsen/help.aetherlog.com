@@ -65,5 +65,6 @@ nav:
   - Lost License: faq/lostlicense.md
   - Aether Betas: faq/beta.md
   - Mode Support: faq/modedropdown.md
+  - Old Versions: faq/oldversions.md
 
 theme: flatly

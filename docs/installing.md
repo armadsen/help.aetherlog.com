@@ -32,11 +32,11 @@ However, if you ever need to reinstall it or install it on a new computer, follo
 
     ![App Store in Apple Menu](images/AppleMenuAppStore.png)
 
-2. When the App Store opens, click on the Purchased tab:
+2. When the App Store opens, select your account in the lower left corner:
 
-    ![App Store Purchased tab](images/AppStorePurchasedTab.png)
+    ![App Store Purchased tab](images/AppStoreAccount.png)
 
-3. Find Aether in the list of your purchased apps, and click the Install button to the right:
+3. Find Aether in the list of your purchased apps, and click the Install button (cloud icon):
 
     ![App Store Install Button](images/AppStoreInstallAether.png)
 

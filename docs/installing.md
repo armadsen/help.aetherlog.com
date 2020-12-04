@@ -30,15 +30,15 @@ However, if you ever need to reinstall it or install it on a new computer, follo
 
 1. Open the Mac App Store by choosing "App Store..." from the Apple icon menu in the top let corner of your screen:
 
-    ![App Store in Apple Menu](images/AppleMenuAppStore.png)
+    ![App Store in Apple Menu](images/AppleMenuAppStore.png){: style="height:50%;width:50%"}
 
 2. When the App Store opens, select your account in the lower left corner:
 
-    ![App Store Purchased tab](images/AppStoreAccount.png)
+    ![App Store Purchased tab](images/AppStoreAccount.png){: style="height:30%;width:30%"}
 
 3. Find Aether in the list of your purchased apps, and click the Install button (cloud icon):
 
-    ![App Store Install Button](images/AppStoreInstallAether.png)
+    ![App Store Install Button](images/AppStoreInstallAether.png){: style="height:50%;width:50%"}
 
 4. Aether will be downloaded and installed in your Applications folder.
 

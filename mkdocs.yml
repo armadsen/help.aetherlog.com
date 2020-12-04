@@ -68,3 +68,6 @@ nav:
   - Old Versions: faq/oldversions.md
 
 theme: flatly
+
+markdown_extensions:
+  - attr_list

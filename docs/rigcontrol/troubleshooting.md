@@ -50,7 +50,7 @@ If you're having trouble with rig control, and need to [contact Aether support](
 
 1. Disable Rig Control, then quit Aether.
 2. Start Aether up from your dock while holding down the shift key. (If Aether is not in your dock, put it there temporarily by dragging it there from Finder.) This will put Aether in debug mode.
-3. You'll know that it worked if you see a Debug menu to the left of the Help menu.
+3. You'll know that it worked if you see a Debug menu to the right of the Help menu.
 4. Enable rig control and let Aether run for a few minutes to gather data.
 6. Choose Save Debug Log from the Debug menu:
 

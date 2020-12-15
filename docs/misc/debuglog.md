@@ -4,7 +4,7 @@ If you're having trouble with something, and need to [contact Aether support](ht
 
 1. Quit Aether.
 2. Start Aether up from your dock while holding down the shift key. (If Aether is not in your dock, put it there temporarily by dragging it there from Finder.) This will put Aether in debug mode.
-3. You'll know that it worked if you see a Debug menu to the left of the Help menu.
+3. You'll know that it worked if you see a Debug menu to the right of the Help menu.
 4. Attempt whatever operation it is that you're having trouble with, provoking the error you're seeing (if any).
 5. Choose Save Debug Log from the Debug menu:
 

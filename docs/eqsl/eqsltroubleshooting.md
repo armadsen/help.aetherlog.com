@@ -8,7 +8,7 @@ If you're having trouble with eQSL.cc, and need to [contact Aether support](http
 
 1. Quit Aether.
 2. Start Aether up from your dock while holding down the shift key. (If Aether is not in your dock, put it there temporarily by dragging it there from Finder.) This will put Aether in debug mode.
-3. You'll know that it worked if you see a Debug menu to the left of the Help menu.
+3. You'll know that it worked if you see a Debug menu to the right of the Help menu.
 4. Attempt to synchronize with eQSL.cc, hopefully provoking the error you're seeing.
 5. Dismiss the error alert (if any).
 6. Choose Save Debug Log from the Debug menu:

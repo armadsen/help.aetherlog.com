@@ -12,7 +12,7 @@ If you're having trouble with callbook lookup, and need to [contact Aether suppo
 
 1. Quit Aether.
 2. Start Aether up from your dock while holding down the shift key. (If Aether is not in your dock, put it there temporarily by dragging it there from Finder.) This will put Aether in debug mode.
-3. You'll know that it worked if you see a Debug menu to the left of the Help menu.
+3. You'll know that it worked if you see a Debug menu to the right of the Help menu.
 4. Attempt a callbook lookup, hopefully provoking the problem you're having.
 6. Choose Save Debug Log from the Debug menu:
 

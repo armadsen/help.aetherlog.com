@@ -22,7 +22,7 @@ Aether awards definition files are plain text files whose contents are [JSON](ht
 
 A detailed description of the available fields, their purpose, and example values are given in the [Award Definition Fields](#award-definition-fields) section of this page.
 
-A JSON linter like [jsonlint.com]() can be used to verify that your file is correctly formatted according to the JSON standard. Note that this *does not* verify that e.g. the field names Aether expects are correct, merely that the file is structurally correct.
+A JSON linter like [jsonlint.com]() can be used to verify that your file is correctly formatted according to the JSON standard. Note that this _does not_ verify that e.g. the field names Aether expects are correct, merely that the file is structurally correct.
 
 Files must be saved with the extension `.awardsdef` to be recognized by Aether. See the [Loading Into Aether](#loading-into-aether) section below for details on installing a custom award definition file in Aether.
 
@@ -33,7 +33,7 @@ I've posted the awards definition files that Aether ships with on GitHub: [https
 Awards definitions in Aether include several fields. The table below lists these fields, including a description of the field's purpose, and whether or not it is optional. The descriptions use the example of the ARRL's Worked All States award to illustrate how they work.
 
 |         Field Name         | Description                                                               | Optional |
-|:--------------------------:|:--------------------------------------------------------------------------|:---------|
+| :------------------------: | :------------------------------------------------------------------------ | :------- |
 |         awardName          | Full name of the award (e.g. "Worked All States")                         | NO       |
 |       awardShortName       | Abbreviated name of the award (e.g. "WAS")                                | NO       |
 |        awardSponsor        | Name of the award's sponsor (e.g. "ARRL")                                 | YES      |
@@ -45,6 +45,8 @@ Awards definitions in Aether include several fields. The table below lists these
 |   additionalRelevantKeys   | Key paths for values to show as additional columns in the awards window   | YES      |
 |        uniquingKeys        | Key paths for values that cause QSOs to be treated as unique              | YES      |
 | requiredFixedKeysAndValues | Key paths and corresponding values that must be set for a QSO to count    | YES      |
+|         startDate          | First date for QSOs to be considered to count for the award. YYYY-MM-DD   | YES      |
+|          endDate           | Last date for QSOs to be considered to count for the award. YYYY-MM-DD    | YES      |
 
 Some of these fields, like `awardName` are fairly self explanatory. For those that are not, see the detailed descriptions below.
 
@@ -84,12 +86,16 @@ The `requiredFixedKeysAndValues` field is a dictionary whose keys are [key paths
 
 For example, for Worked All States, this field is used to specify that QSO's must have a country value of "United States", "USA", "US", etc. to be considered valid. That way, QSOs with other countries will not be considered valid for the award, _even if_ they happen to have an otherwise valid two letter state abbreviation filled in for their state.
 
+#### startDate and endDate
+
+If you'd only like to consider QSOs made in a specific date range, you can specify the startDate and/or endDate. Both take a string of the format `YYYY-MM-DD`. For start date, any QSO made after 00:00 UTC (ie midnight) on that date are considered valid. For end date, any QSO made before 23:59 UTC on that date are considered valid. You can omit either date to specify an open ended range, and you can omit both to avoid restricting QSOs to a certain date range. _Note:_ This feature is only available in Aether 1.6.11 or later.
+
 ## Key Paths
 
 Several of the fields in an award definition have a value that is a [key path](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueCoding/Articles/BasicPrinciples.html#//apple_ref/doc/uid/20002170-183455) for a QSO. The table below lists the key path for several common values. If one you'd like to use isn't listed here, please [contact Aether support](mailto:support@aetherlog.com) for assistance.
 
 | Value              | Key path                | Type   | Example Value              |
-|:-------------------|:------------------------|:-------|:---------------------------|
+| :----------------- | :---------------------- | :----- | :------------------------- |
 | Callsign           | callsign                | String | "AC7CF"                    |
 | Operating Mode     | mode                    | String | "CW"                       |
 | Frequency (in MHz) | frequency               | Number | 14.060                     |

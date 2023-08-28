@@ -22,7 +22,7 @@ Many Yaesu radios use a round DIN connector for their CAT connection, and requir
 
 Recent rigs that have a standard USB jack for rig control can be used with Aether without any special interface hardware. A standard USB cable is all that is required. Internally, however, these rigs simply contain their own USB to RS-232 adapter. You _will_ need a driver for them (see next paragraph).
 
-Once you have purchased an appropriate interface, the next step is to install the correct drivers. See [this page](rigdrivers) for detailed information about USB to serial adapter drivers, including links to download them.
+Once you have purchased an appropriate interface, the next step is to install the correct drivers. See [this page](rigdrivers.md) for detailed information about USB to serial adapter drivers, including links to download them.
 
 ## Note About "Fancy" interfaces
 
@@ -30,4 +30,4 @@ Several companies sell full featured rig interface boxes, including CAT support,
 
 ## What's Next
 
-Once you have installed the driver, the next step is installing the proper driver. See [this page](/rigcontrol/rigdrivers) for more information.
+Once you have installed the driver, the next step is installing the proper driver. See [this page](rigdrivers.md) for more information.

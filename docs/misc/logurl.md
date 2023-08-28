@@ -32,4 +32,4 @@ Note that the values for each query parameter must be strings, with special char
 
 ## Caveats
 
-This feature is currently only available in the current [beta version](/faq/beta) of Aether. It will be released widely as part of Aether 1.6.3. Also, this feature is only available when Aether is running on OS X 10.9 Mavericks or later.
+This feature is currently only available in the current [beta version](../faq/beta.md) of Aether. It will be released widely as part of Aether 1.6.3. Also, this feature is only available when Aether is running on OS X 10.9 Mavericks or later.

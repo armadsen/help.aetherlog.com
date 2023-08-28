@@ -56,8 +56,8 @@ If Aether encounters an error in performing any of the above steps, it reports t
 
 Having explained these processes, we can talk about common problems encountered when using Aether with LoTW. These are discussed on the following pages:
 
-- [Certificate Troubleshooting](certificatetroubleshooting)
-- [Missing Logs on the LoTW Website](lotwuploadtroubleshooting)
+- [Certificate Troubleshooting](certificatetroubleshooting.md)
+- [Missing Logs on the LoTW Website](lotwuploadtroubleshooting.md)
 
 ## Debug Log
 
@@ -70,7 +70,7 @@ If you're having trouble with Logbook of The World, and need to [contact Aether 
 5. Dismiss the error alert (if any).
 6. Choose Save Debug Log from the Debug menu:
 
-    ![Save Debug Log menu item](/images/SaveDebugLog.png)
+    ![Save Debug Log menu item](../images/SaveDebugLog.png)
 
 7. Choose a name and location for the debug log. Your desktop is a good choice.
 8. Attach the log you saved to an email to [me](mailto:support@aetherlog.com).

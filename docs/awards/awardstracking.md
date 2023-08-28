@@ -8,11 +8,11 @@ To set up Awards Tracking:
 
 1. Open Aether Preferences by selecting Preferences from the Aether menu (or pressing command-comma):
 
-    ![Aether Preferences Menu Item](/images/AetherPreferencesMenuItem.png)
+    ![Aether Preferences Menu Item](../images/AetherPreferencesMenuItem.png)
 
 2. Select the Awards Tracking tab:
 
-    ![Awards Tracking Tab of Preferences](/images/AwardPreferences.png)
+    ![Awards Tracking Tab of Preferences](../images/AwardPreferences.png)
 
 3. Check the box for "Indicate that QSO is needed for an award".
 
@@ -22,17 +22,17 @@ To set up Awards Tracking:
 
 After you've set up awards tracking, Aether will show you whether a newly entered callsign would help you with one of your awards. When you enter a callsign in the callsign field and hit return, a small awards icon will appear if a QSO with that callsign will help you with progress toward an award you're tracking:
 
-![Awards Tracking Indicator](/images/AwardIndicator.png)
+![Awards Tracking Indicator](../images/AwardIndicator.png)
 
 ## Awards Report Window
 
 You can open the Awards Report window by choosing Show Awards Report from the View menu, or by pressing option-command-A:
 
-![Show Awards Report Menu Item](/images/ShowAwardsReportMenuItem.png)
+![Show Awards Report Menu Item](../images/ShowAwardsReportMenuItem.png)
 
 The Awards Report window allows you to see detailed information about your progress toward the awards you're tracking. You can select an award on the left to see progress information on the right:
 
-![Awards Report Window](/images/AwardsReportWindow.png)
+![Awards Report Window](../images/AwardsReportWindow.png)
 
 At the top is information about the award, including the name, sponsor, a link to the award sponsor's website, and the total number of QSOs that are required to qualify for the award.
 
@@ -40,4 +40,4 @@ The bottom includes a list of QSOs that count toward your earning the award. You
 
 ## Award Settings
 
-Aether has a few settings related to awards tracking. For more information see the [Awards Tracking Preferences Page](/preferences/awardspreferences).
+Aether has a few settings related to awards tracking. For more information see the [Awards Tracking Preferences Page](../preferences/awardspreferences.md).

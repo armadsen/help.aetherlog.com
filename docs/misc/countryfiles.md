@@ -12,11 +12,11 @@ Aether includes a built in prefix file, which I update whenever a new version of
 
 3. You will be prompted to install the file. Click Install to proceed:
 
-    ![Install prefix file prompt](/images/InstallPrefixFilePrompt.png)
+    ![Install prefix file prompt](../images/InstallPrefixFilePrompt.png)
 
 4. Assuming the installation was successful, you'll see a success window. Click OK to continue
 
-    ![Install prefix file successful](/images/PrefixFileInstallSuccessful.png)
+    ![Install prefix file successful](../images/PrefixFileInstallSuccessful.png)
 
 From now on, Aether will use this file to lookup the DXCC number, CQ zone, ITU zone, and country for newly entered callsigns.
 

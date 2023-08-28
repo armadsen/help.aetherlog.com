@@ -11,7 +11,7 @@ Note that these instructions will not work for Aether downloaded from the Mac Ap
 1. Open Aether's preferences by choosing Preferences from the Aether menu, or pressing command-comma.
 2. On the General tab, at the bottom, check the box that says "Include beta versions (advanced users only)".
 
-    ![Beta Updates Option](/images/BetaPreference.png)
+    ![Beta Updates Option](../images/BetaPreference.png)
 
 3. Choose Check for Updates from the Aether menu.
 4. If a new beta version of Aether is available, you will be prompted to install it.

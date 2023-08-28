@@ -10,9 +10,9 @@ While Migration Assistant works well for transferring all of the data from one M
 
 ## Transferring Aether
 
-If you purchased Aether on the Mac App Store, you should install it on your new Mac using the Mac App Store on the new Mac. You can find instruction for that process on [this page](/installing/#installing-from-the-mac-app-store).
+If you purchased Aether on the Mac App Store, you should install it on your new Mac using the Mac App Store on the new Mac. You can find instruction for that process on [this page](../installing.md/#installing-from-the-mac-app-store).
 
-If you purchased Aether directly from the Aether website, you can also simply reinstall it by downloading a fresh copy on the new computer. You can find instruction for that process on [this page](/installing/#installing-from-aether-website). You'll need to re-enter your Aether license key on the new computer. You can find it in the original email sent when your purchased Aether. If you don't have your license key or the original email, please [contact support](mailto:support@aetherlog.com) to have it sent to you.
+If you purchased Aether directly from the Aether website, you can also simply reinstall it by downloading a fresh copy on the new computer. You can find instruction for that process on [this page](../installing.md/#installing-from-aether-website). You'll need to re-enter your Aether license key on the new computer. You can find it in the original email sent when your purchased Aether. If you don't have your license key or the original email, please [contact support](mailto:support@aetherlog.com) to have it sent to you.
 
 ## Transferring Settings
 
@@ -26,8 +26,8 @@ If you're an advanced Mac user, and know about how it stores preferences, know t
 
 Aether's Logbook files are just regular files and get stored wherever you choose to save them. You can copy them to your new Mac via your local network using File Sharing, by copying them onto a USB drive, emailing them to yourself, using Airdrop, or any other method you usually use to transfer files between computers.
 
-If you need help finding your Logbook file(s), see [this page](/faq/lostlog).
+If you need help finding your Logbook file(s), see [this page](../faq/lostlog.md).
 
 ## Transferring LoTW Certificates
 
-LoTW certificates that you have installed in Aether must first be exported in .p12 format before copying them to your new Mac and importing them back into Aether. You can find instructions for doing so on [this page](/lotw/exportp12/#export-p12-from-aether).
+LoTW certificates that you have installed in Aether must first be exported in .p12 format before copying them to your new Mac and importing them back into Aether. You can find instructions for doing so on [this page](../lotw/exportp12.md/#export-p12-from-aether).

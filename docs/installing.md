@@ -46,7 +46,7 @@ However, if you ever need to reinstall it or install it on a new computer, follo
 
 ## Next Steps
 
-Now that you've installed Aether, you're ready to start using it. See the [getting started guide](gettingstarted) guide to learn the basics of using Aether.
+Now that you've installed Aether, you're ready to start using it. See the [getting started guide](gettingstarted.md) guide to learn the basics of using Aether.
 
 ## Help
 

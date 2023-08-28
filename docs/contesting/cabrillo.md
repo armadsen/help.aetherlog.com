@@ -10,11 +10,11 @@ In order to export a Cabrillo file, you first must fill in details about the con
 
 1. Choose "Show Contest Info" from the View menu (or press option-command-I):
 
-    ![Show Contest Info Menu Item](/images/ShowContestInfo.png)
+    ![Show Contest Info Menu Item](../images/ShowContestInfo.png)
 
 2. In the Contest Info window, first select the contest you're working.
 
-    ![Contest Info Window](/images/ContestInfoWindow.png)
+    ![Contest Info Window](../images/ContestInfoWindow.png)
 
 3. Fill in appropriate values for the various fields in the window. See the rules for the particular contest for information about each field.
 
@@ -22,13 +22,13 @@ With contest info properly filled in for your log, you're ready to export a Cabr
 
 1. Choose "Export..." from the File menu (or press command-E):
 
-    ![Export Menu Item](/images/FileExportMenuItem.png)
+    ![Export Menu Item](../images/FileExportMenuItem.png)
 
 2. In the sheet that appears, choose a name and location for the exported Cabrillo file.
 
 3. Select Cabrillo for the file type:
 
-    ![Cabrillo Export Sheet](/images/CabrilloExportPanel.png)
+    ![Cabrillo Export Sheet](../images/CabrilloExportPanel.png)
 
 4. Normally, you'll want to Export "All QSOs". If your logbook file also contains non-contest QSOs, you can select only those QSO that were made from the contest in the QSO table, then choose Selected QSOs instead.
 
@@ -44,7 +44,7 @@ Aether is also able to import Cabrillo files. To do so, do the folllowing:
 2. Choose the Cabrillo file you want to import (note that the file extension must be ".log").
 3. If you already have another logbook file open, you will be asked whether you want to import the QSOs from the Cabrillo file into the existing open log, or a new one:
 
-    ![Import into new or existing log prompt](/images/CabrilloImportNewOrExistingLog.png)
+    ![Import into new or existing log prompt](../images/CabrilloImportNewOrExistingLog.png)
 
 4. Aether will display its progress as it imports the file (only for large files).
 5. When the import is complete, you'll see the QSOs from the Cabrillo file in your Aether logbook.

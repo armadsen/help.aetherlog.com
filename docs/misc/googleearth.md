@@ -2,7 +2,7 @@
 
 Aether can export KML (Keyhole Markup Language) files for import into mapping software like Google Earth. This will allow you to see a map of all the QSOs in your log at once in Google Earth. This page includes instructions for exporting a KML file from Aether and importing it into Google Earth.
 
-![Google Earth with Aether KML loaded](/images/GoogleEarth.png)
+![Google Earth with Aether KML loaded](../images/GoogleEarth.png)
 
 ## Export KML From Aether
 

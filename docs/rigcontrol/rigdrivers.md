@@ -37,4 +37,4 @@ Here are links to drivers for all four chipsets:
 
 ## What's Next
 
-Once you have installed the driver, the next step is setting up rig control in Aether. See [this page](/rigcontrol/rigcontrol) for more information.
+Once you have installed the driver, the next step is setting up rig control in Aether. See [this page](rigcontrol.md) for more information.

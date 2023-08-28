@@ -20,7 +20,7 @@ To export a file from Aether do the following:
 1. Choose Export from the File menu (or press command-E).
 2. In the sheet that appears, choose a name and location for the file you're exporting.
 
-    ![File Export Sheet](/images/ExportSheet.png)
+    ![File Export Sheet](images/ExportSheet.png)
 
 3. Choose the file type you'd like to export from the File Type dropdown.
 4. Choose whether you'd like to export all the QSOs in your logbook, or just those that are selected in the QSO table.
@@ -36,6 +36,6 @@ For more information about each of the the file formats Aether supports, see the
 - [Google Earth][] - Can be imported into Google Earth to show the locations of stations you've contacted.
 
 [ADIF]: http://www.adif.org
-[Cabrillo]: /contesting/cabrillo.md
+[Cabrillo]: contesting/cabrillo.md
 [CSV]: https://en.wikipedia.org/wiki/Comma-separated_values
-[Google Earth]: /misc/googleearth.md
+[Google Earth]: misc/googleearth.md

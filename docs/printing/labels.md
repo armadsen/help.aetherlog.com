@@ -11,15 +11,15 @@ To print address and/or QSL card labels for the QSOs in your log, do the followi
 3. Select the printer you'd like to use.
 4. In the print sheet that appears, make sure details are shown. If they are not, click the "Show Details" button at the bottom of the sheet:
 
-    ![Print Sheet Show Details](/images/Printing/PrintLabelSheetNoDetail.png)
+    ![Print Sheet Show Details](../images/Printing/PrintLabelSheetNoDetail.png)
 
 5. With details shown, select Aether in the section dropdown:
 
-    ![Print Sheet Aether Section](/images/Printing/PrintLabelSheetAetherSettings.png)
+    ![Print Sheet Aether Section](../images/Printing/PrintLabelSheetAetherSettings.png)
 
 6. Choose appropriate options for the labels you'd like to print:
 
-    ![Label printing options](/images/Printing/PrintSheetLabelSettings.png)
+    ![Label printing options](../images/Printing/PrintSheetLabelSettings.png)
 
     - Whether or not to print labels for all QSOs in your logbook, or only those that are selected in the QSO table.
     - Whether to print mailing labels, QSO info labels, or both.
@@ -28,7 +28,7 @@ To print address and/or QSL card labels for the QSOs in your log, do the followi
 
 7. Choose the type of label sheet you're using from the Label Type dropdown:
 
-    ![label sheet types](/images/Printing/PrintSheetLabelType.png)
+    ![label sheet types](../images/Printing/PrintSheetLabelType.png)
 
 8. When all the settings are correct, click Print.
 

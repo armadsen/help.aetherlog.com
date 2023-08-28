@@ -1,6 +1,6 @@
 ## Overview
 
-![Logging Preferences Tab](/images/LoggingPreferences.png)
+![Logging Preferences Tab](../images/LoggingPreferences.png)
 
 The Logging tab of preferences consists of three sections from top to bottom:
 
@@ -15,7 +15,7 @@ The Logging tab of preferences consists of three sections from top to bottom:
 
 When the "Automatically check for past QSOs" setting is enabled, Aether will automatically check for past QSOs (dupes) with the same station when a new QSO is logged. By default, this setting is **enabled**. If Aether finds previous QSOs, it will show the total number of QSOs with that station (including the new one) and a button to show them:
 
-![Dupes found indicator](/images/DupesIndicator.png)
+![Dupes found indicator](../images/DupesIndicator.png)
 
 #### Autofill callbook data from most recent QSO
 
@@ -39,12 +39,12 @@ When a new QSO is logged, Aether can automatically lookup certain information ba
 
 #### Callbook Info
 
-When this option is enabled, Aether will automatically lookup callbook info for the entered callsign as soon as you hit the return key or tab away from the callsign field. By default, this option is **enabled**. This lookup is done online, and requires an active internet connection. Callbook lookup is a larger topic, and more information can be found in the [Callbook Lookup Guide](/callbooklookup/callbooklookup). Note that you can always manually do a callbook lookup for the selected QSO(s) by choosing "Lookup Callsign Data" from the Log menu, or by pressing command-L.
+When this option is enabled, Aether will automatically lookup callbook info for the entered callsign as soon as you hit the return key or tab away from the callsign field. By default, this option is **enabled**. This lookup is done online, and requires an active internet connection. Callbook lookup is a larger topic, and more information can be found in the [Callbook Lookup Guide](../callbooklookup/callbooklookup.md). Note that you can always manually do a callbook lookup for the selected QSO(s) by choosing "Lookup Callsign Data" from the Log menu, or by pressing command-L.
 
 #### DXCC Code, ITU Zone, Country, CQ Zone
 
-For these options, Aether uses the callsign prefix to determine the correct values. To do so, it uses a [country file](http://www.country-files.com/contest/aether/) from AD1C. This does not require an internet connection. It is important to note that the country field's value will be overwritten by data from an online callbook source. For more information on Aether's support for country files, along with information about updating/modifying the country file Aether uses, see [this page](/misc/countryfiles).
+For these options, Aether uses the callsign prefix to determine the correct values. To do so, it uses a [country file](http://www.country-files.com/contest/aether/) from AD1C. This does not require an internet connection. It is important to note that the country field's value will be overwritten by data from an online callbook source. For more information on Aether's support for country files, along with information about updating/modifying the country file Aether uses, see [this page](../misc/countryfiles.md).
 
 ## Callbook Source Settings
 
-Aether can lookup callbook data using a number of callbook sources. Some of these require logging in using a username and password. This section can be used to configure those. For more information see [here](/callbooklookup/#callbook-sources).
+Aether can lookup callbook data using a number of callbook sources. Some of these require logging in using a username and password. This section can be used to configure those. For more information see [here](../callbooklookup/callbooklookup.md/#callbook-sources).

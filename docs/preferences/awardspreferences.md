@@ -1,14 +1,14 @@
 ## Overview
 
-![Awards Tracking Preferences Tab](/images/AwardPreferences.png)
+![Awards Tracking Preferences Tab](../images/AwardPreferences.png)
 
-The Awards Tracking tab of Aether's preferences window contains settings related to Aether's awards tracking feature. More information about awards tracking in Aether can be found [here](/awards/awardstracking).
+The Awards Tracking tab of Aether's preferences window contains settings related to Aether's awards tracking feature. More information about awards tracking in Aether can be found [here](../awards/awardstracking.md).
 
 ## Indicate that QSO is needed for an award
 
 When the "Indicate that QSO is needed for an award" setting is enabled, Aether will tell you that the entered callsign is one that you need for one of the awards it tracks using a small awards icon to the right of the callsign field:
 
-![Awards indicator](/images/AwardIndicator.png)
+![Awards indicator](../images/AwardIndicator.png)
 
 This option is **disabled** by default.
 

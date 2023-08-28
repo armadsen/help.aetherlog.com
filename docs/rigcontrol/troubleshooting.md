@@ -1,6 +1,6 @@
 ## Overview
 
-This page gives information about troubleshooting problems with Aether's [rig control](rigcontrol) feature. Before troubleshooting problems, please make sure you've followed all the steps to set up rig control. You can find step by step instructions on [this page](rigcontrol/#set-up).
+This page gives information about troubleshooting problems with Aether's [rig control](rigcontrol.md) feature. Before troubleshooting problems, please make sure you've followed all the steps to set up rig control. You can find step by step instructions on [this page](rigcontrol.md/#set-up).
 
 This troubleshooting page is organized into sections based on common problems. Find the section for the problem you're having for information about troubleshooting and solving it.
 
@@ -8,13 +8,13 @@ This troubleshooting page is organized into sections based on common problems. F
 
 One common problem is that the dropdown to select a serial port in Aether's rig control settings does not contain any options except for 'No Value'.
 
-![Serial Port dropdown with only No Value](/images/SerialPortNoValue.png)
+![Serial Port dropdown with only No Value](../images/SerialPortNoValue.png)
 
 This indicates that Aether is unable to detect the USB to serial adapter interface used to connect your radio. Check the items below to troubleshoot this:
 
 1. Make sure that the interface is connected to Aether. If your radio has a USB port for rig control, meaning it contains an internal USB to serial adapter, make sure the radio is powered on.
 
-2. Make sure you have installed the correct driver for your interface. Most USB to serial adapters as well as radios with a built in adapter require the installation of a driver. Find more information about drivers on [this page](rigdrivers).
+2. Make sure you have installed the correct driver for your interface. Most USB to serial adapters as well as radios with a built in adapter require the installation of a driver. Find more information about drivers on [this page](rigdrivers.md).
 
 3. If your interface is connected, and you're sure the driver is installed, you can check to see if the OS X operating system itself can see your interface. To do so, open Terminal, which you can find in `/Applications/Utilities` (Go->Utilities in Finder, or search for 'Terminal' with Spotlight). In the window that appears, type or copy and paste the following commands pressing return after each line:
 
@@ -22,7 +22,7 @@ This indicates that Aether is unable to detect the USB to serial adapter interfa
     `cd /dev`  
     `ls tty.*`
 
-    ![Terminal ls tty.*](/images/lsdevtty.png)
+    ![Terminal ls tty.*](../images/lsdevtty.png)
 
     This will list all the serial ports on your system. Any that contain 'Bluetooth' represent your Mac's internal Bluetooth hardware and should be ignored. If your USB to serial adapter is working, you should see an entry for it. The name of this entry will vary, but it should not include 'Bluetooth'. If you do not see any non-Bluetooth entries, the problem is not specific to Aether, and usually indicates an incorrect driver or bad USB to serial hardware.
 
@@ -30,7 +30,7 @@ This indicates that Aether is unable to detect the USB to serial adapter interfa
 
 ## Rig Data Doesn't Show Up
 
-If you believe [set up](rigcontrol/#set-up) and enabled rig control correctly but are not seeing data coming back from your radio, check the items below to troubleshoot the problem:
+If you believe [set up](rigcontrol.md/#set-up) and enabled rig control correctly but are not seeing data coming back from your radio, check the items below to troubleshoot the problem:
 
 1. Make sure the baud rate you've selected matches the rig's baud rate. It is critical that these values match. If they don't, rig control will not work. Most radios include a setting in the menu that allows you to select the baud rate. Refer to your rig's manual for information about how to change this as it varies between radios.
 
@@ -54,7 +54,7 @@ If you're having trouble with rig control, and need to [contact Aether support](
 4. Enable rig control and let Aether run for a few minutes to gather data.
 6. Choose Save Debug Log from the Debug menu:
 
-    ![Save Debug Log menu item](/images/SaveDebugLog.png)
+    ![Save Debug Log menu item](../images/SaveDebugLog.png)
 
 7. Choose a name and location for the debug log. Your desktop is a good choice.
 8. Attach the log you saved to an email to [me](mailto:support@aetherlog.com).

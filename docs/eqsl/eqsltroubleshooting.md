@@ -13,7 +13,7 @@ If you're having trouble with eQSL.cc, and need to [contact Aether support](http
 5. Dismiss the error alert (if any).
 6. Choose Save Debug Log from the Debug menu:
 
-    ![Save Debug Log menu item](/images/SaveDebugLog.png)
+    ![Save Debug Log menu item](../images/SaveDebugLog.png)
 
 7. Choose a name and location for the debug log. Your desktop is a good choice.
 8. Attach the log you saved to an email to [me](mailto:support@aetherlog.com).

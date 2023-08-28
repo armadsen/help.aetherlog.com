@@ -8,7 +8,7 @@ If you're having trouble with something, and need to [contact Aether support](ht
 4. Attempt whatever operation it is that you're having trouble with, provoking the error you're seeing (if any).
 5. Choose Save Debug Log from the Debug menu:
 
-    ![Save Debug Log menu item](/images/SaveDebugLog.png)
+    ![Save Debug Log menu item](../images/SaveDebugLog.png)
 
 6. Choose a name and location for the debug log. Your desktop is a good choice.
 7. Attach the log you saved to an email to [me](mailto:support@aetherlog.com).

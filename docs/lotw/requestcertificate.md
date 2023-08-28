@@ -60,7 +60,7 @@ Follow the instructions below to request a LoTW certificate using Aether:
 
     ![Aether Manage Certificates With Requested Certificate](/images/RequestCertificate/ManageCertificatesRequested.png)
 
-17. When you receive your certificate file from the ARRL, it will be a .tq6 file. See [this page](installcertificate) for instructions for installing the certificate.
+17. When you receive your certificate file from the ARRL, it will be a .tq6 file. See [this page](/lotw/installcertificate) for instructions for installing the certificate.
 
 ## More Help
 
